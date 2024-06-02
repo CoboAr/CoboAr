@@ -1,18 +1,11 @@
 ### Hi there 👋
-I'm Arnold, a computer engineer driven by a passion for technology and the transformative potential of Artificial Intelligence. With a strong foundation in mathematics, 
-complemented by a Bachelor of Arts with a major in Mathematics and a Minor in Theology, I bring a unique perspective to the world of software engineering and AI research.
+I'm Arnold, a computer engineer driven by a passion for technology and the transformative potential of Artificial Intelligence. Currently pursuing a Master of Engineering in Electrical and Computer Engineering with a concentration in AI, I'm dedicated to expanding my knowledge and expertise in this dynamic field.
 
-My journey in technology has been defined by a commitment to innovation and a pursuit of practical solutions using cutting-edge technologies. I specialize in machine learning, 
-natural language processing, and software development, leveraging these skills to address real-world challenges.
+With a strong foundation in mathematics, complemented by a Bachelor of Arts with a major in Mathematics and a Minor in Theology, I bring a unique perspective to the world of software engineering and AI research.
 
-On my GitHub page, you'll discover a diverse collection of projects reflecting my expertise in AI and software engineering. From fundamental algorithms and tools to sophisticated 
-systems and applications, my projects showcase the breadth of my capabilities and my dedication to pushing the boundaries of what's possible.
+My journey in technology has been defined by a commitment to innovation and a pursuit of practical solutions using cutting-edge technologies. I specialize in machine learning, natural language processing, and software development, leveraging these skills to address real-world challenges.
 
-Beyond my personal projects, I actively engage with the open-source community, collaborating with fellow enthusiasts and contributing to impactful projects. I believe in the power of 
-collective intelligence and the importance of fostering collaboration to drive progress in technology.
-
-If you have an exciting project idea or are looking for a passionate collaborator, I'm eager to connect and explore opportunities together. Feel free to reach out—I'm always open 
-to new challenges and opportunities to make a meaningful impact.
+On my GitHub page, you'll discover a diverse collection of projects reflecting my expertise in AI and software engineering. From fundamental algorithms and tools to sophisticated systems and applications, my projects showcase the breadth of my capabilities and my dedication to pushing the boundaries of what's possible.   
 
 Thank you for taking the time to visit my GitHub page. I hope you find my projects and contributions both informative and inspiring.
 
