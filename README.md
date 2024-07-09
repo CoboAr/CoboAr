@@ -9,7 +9,7 @@ On my GitHub page, you'll discover a diverse collection of projects reflecting m
 
 Thank you for taking the time to visit my GitHub page. I hope you find my projects and contributions both informative and inspiring.
 
-Visit my GitHub page: [Arnold's Portfolio Website](https://coboar.github.io/)
+<!-- Visit my GitHub page: [Arnold's Portfolio Website](https://coboar.github.io/)-->
 
 [![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoboAr&show_icons=true&&include_all_commits=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoboAr&hide_progress=false&layout=compact&theme=transparent&exclude_repo=Multivariable-Regression-and-Valuation-Model,Dr-Semmelweis-Handwashing-Discovery,Nobel-Prize-Analysis,Linear-Regression-and-Seaborn,Computations-with-NumPy,Analysing-Google-Play-Store,Google-Trends-Data,Aggregate-and-Merge-Data-in-Pandas,Data-Visualisation-matplotlib,)](https://github.com/anuraghazra/github-readme-stats)
