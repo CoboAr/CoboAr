@@ -1,5 +1,5 @@
 # Arnold Cobo  
-### **AI Researcher | Machine Learning Engineer**  
+### **AI Healthcare | Machine Learning Engineer**  
 
 **Master of Applied Science – Electrical & Computer Engineering**  
 **Toronto Metropolitan University (TMU)** | **Specialization: Healthcare AI**  
